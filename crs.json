@@ -1,0 +1,401 @@
+[
+	{
+		"part" : "BAN2",
+		"ad" : "DP",
+		"nom" : "Chalus",
+		"mnemo" : "CHALUS",
+		"code" : "764",
+		"adabo" : "DPP10",
+		"metis" : "Banque Chalus",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRA0",
+		"ad" : "AL",
+		"nom" : "Alpes Provence",
+		"mnemo" : "CRCAP",
+		"code" : "813",
+		"adabo" : "ALP10",
+		"metis" : "CA CR Alpes Provence",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRA2",
+		"ad" : "AM",
+		"nom" : "Anjou Maine",
+		"mnemo" : "CAAM",
+		"code" : "879",
+		"adabo" : "AMP10",
+		"metis" : "CA CR de l'Anjou et du Maine",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRA4",
+		"ad" : "AO",
+		"nom" : "Alsaces-Vosges",
+		"mnemo" : "CAAV",
+		"code" : "872",
+		"adabo" : "AOP10",
+		"metis" : "CA CR Alsace Vosges",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRA6",
+		"ad" : "IF",
+		"nom" : "Paris-Ile-de-France",
+		"mnemo" : "CADIF",
+		"code" : "882",
+		"adabo" : "IFP10",
+		"metis" : "CA CR Ile de France",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRA8",
+		"ad" : "AQ",
+		"nom" : "Aquitaine",
+		"mnemo" : "CRAQ",
+		"code" : "833",
+		"adabo" : "AQP10",
+		"metis" : "CA CR Aquitaine",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRB0",
+		"ad" : "AV",
+		"nom" : "Atlantique-Vendée",
+		"mnemo" : "CRAV",
+		"code" : "847",
+		"adabo" : "AVP10",
+		"metis" : "CA CR Atlantique Vendée",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRB2",
+		"ad" : "BI",
+		"nom" : "Brie-Picardie",
+		"mnemo" : "CABP",
+		"code" : "887",
+		"adabo" : "BIP10",
+		"metis" : "CA CR Brie Picardie",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRB6",
+		"ad" : "CA",
+		"nom" : "Côtes-d'Armor",
+		"mnemo" : "CR22",
+		"code" : "822",
+		"adabo" : "CAP10",
+		"metis" : "CA CR Côtes-d'Armor",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRB8",
+		"ad" : "CE",
+		"nom" : "Charente Périgord",
+		"mnemo" : "CACP",
+		"code" : "824",
+		"adabo" : "CEP10",
+		"metis" : "CA CR Charente-Périgord",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRC0",
+		"ad" : "CL",
+		"nom" : "Centre Loire",
+		"mnemo" : "CRCL",
+		"code" : "848",
+		"adabo" : "CLP10",
+		"metis" : "CA CR Centre Loire",
+		"crgrad" : true
+	},
+	{
+		"part" : "CRC2",
+		"ad" : "CO",
+		"nom" : "Centre-Ouest",
+		"mnemo" : "CRCO",
+		"code" : "895",
+		"adabo" : "COP10",
+		"metis" : "CA CR Centre Ouest",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRC6",
+		"ad" : "CR",
+		"nom" : "Corse",
+		"mnemo" : "CR20",
+		"code" : "820",
+		"adabo" : "CRP10",
+		"metis" : "CA CR Corse",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRC8",
+		"ad" : "CS",
+		"nom" : "Charente Maritime DS",
+		"mnemo" : "CMDS",
+		"code" : "817",
+		"adabo" : "CSP10",
+		"metis" : "CA CR Charente-Maritime Deux-Sèvres",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRD2",
+		"ad" : "FI",
+		"nom" : "Finistère",
+		"mnemo" : "CR29",
+		"code" : "829",
+		"adabo" : "FIP10",
+		"metis" : "CA CR Finistère",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRD4",
+		"ad" : "GU",
+		"nom" : "Guadeloupe",
+		"mnemo" : "CRGU",
+		"code" : "900",
+		"adabo" : "GUP10",
+		"metis" : "CA CR Guadeloupe",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRE0",
+		"ad" : "FC",
+		"nom" : "Franche-Comté",
+		"mnemo" : "CAFC",
+		"code" : "825",
+		"adabo" : "FCP10",
+		"metis" : "CA CR Franche-Comté",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRE4",
+		"ad" : "LA",
+		"nom" : "Languedoc",
+		"mnemo" : "CRLGC",
+		"code" : "835",
+		"adabo" : "LAP10",
+		"metis" : "CA CR Languedoc",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRE6",
+		"ad" : "LO",
+		"nom" : "Lorraine",
+		"mnemo" : "CAL",
+		"code" : "861",
+		"adabo" : "LOP10",
+		"metis" : "CA CR Lorraine",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRF0",
+		"ad" : "MA",
+		"nom" : "Martinique",
+		"mnemo" : "CRMA",
+		"code" : "902",
+		"adabo" : "MAP10",
+		"metis" : "CA CR Martinique-Guyane",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRF2",
+		"ad" : "MO",
+		"nom" : "Morbihan",
+		"mnemo" : "CR56",
+		"code" : "860",
+		"adabo" : "MOP10",
+		"metis" : "CA CR Morbihan",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRF4",
+		"ad" : "NE",
+		"nom" : "Nord-Est",
+		"mnemo" : "CANE",
+		"code" : "802",
+		"adabo" : "NEP10",
+		"metis" : "CA CR Nord Est",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRF6",
+		"ad" : "NF",
+		"nom" : "Nord de France",
+		"mnemo" : "CRNF",
+		"code" : "867",
+		"adabo" : "NFP10",
+		"metis" : "CA CR Nord de France",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRF8",
+		"ad" : "NM",
+		"nom" : "Nord Midi Pyrenées",
+		"mnemo" : "CRNMP",
+		"code" : "812",
+		"adabo" : "NMP10",
+		"metis" : "CA CR Nord Midi-Pyrénées",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRG0",
+		"ad" : "NO",
+		"nom" : "Normandie",
+		"mnemo" : "CRNO",
+		"code" : "866",
+		"adabo" : "NOP10",
+		"metis" : "CA CR Normandie",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRG2",
+		"ad" : "NS",
+		"nom" : "Normandie-Seine",
+		"mnemo" : "CRNS",
+		"code" : "883",
+		"adabo" : "NSP10",
+		"metis" : "CA CR de Normandie-Seine",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRG4",
+		"ad" : "PG",
+		"nom" : "Pyrénées-Gascogne",
+		"mnemo" : "CAMPG",
+		"code" : "869",
+		"adabo" : "PGP10",
+		"metis" : "CA CR Pyrénées Gascogne",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRG6",
+		"ad" : "RE",
+		"nom" : "Réunion",
+		"mnemo" : "CRUN",
+		"code" : "903",
+		"adabo" : "REP10",
+		"metis" : "CA CR Réunion",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRG8",
+		"ad" : "IV",
+		"nom" : "Ille-et-Vilaine",
+		"mnemo" : "CRIV",
+		"code" : "836",
+		"adabo" : "IVP10",
+		"metis" : "CA CR Ille-et-Vilaine",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRH0",
+		"ad" : "SM",
+		"nom" : "Sud Méditérranée",
+		"mnemo" : "CRSM",
+		"code" : "871",
+		"adabo" : "SMP10",
+		"metis" : "CA CR Sud Méditerranée",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRH2",
+		"ad" : "TO",
+		"nom" : "Toulouse",
+		"mnemo" : "CR31",
+		"code" : "831",
+		"adabo" : "TOP10",
+		"metis" : "CA CR Toulouse 31",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRH4",
+		"ad" : "TP",
+		"nom" : "Touraine-Poitou",
+		"mnemo" : "CATP",
+		"code" : "894",
+		"adabo" : "TPP10",
+		"metis" : "CA CR Touraine et Poitou",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRH6",
+		"ad" : "VF",
+		"nom" : "Val-de-France",
+		"mnemo" : "CAVDF",
+		"code" : "844",
+		"adabo" : "VFP10",
+		"metis" : "CA CR Val de France",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRH8",
+		"ad" : "AP",
+		"nom" : "Des Savoies",
+		"mnemo" : "CADS",
+		"code" : "881",
+		"adabo" : "APP10",
+		"metis" : "CA CR Des Savoie",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRI0",
+		"ad" : "BP",
+		"nom" : "Centre France",
+		"mnemo" : "CACF",
+		"code" : "868",
+		"adabo" : "BPP10",
+		"metis" : "CA CR Centre France",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRI2",
+		"ad" : "CP",
+		"nom" : "Provence Côtes d'Azur",
+		"mnemo" : "CAPCA",
+		"code" : "891",
+		"adabo" : "CPP10",
+		"metis" : "CA CR Provence Côte d'Azur",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRI4",
+		"ad" : "RP",
+		"nom" : "Sud Rhône-Alpes",
+		"mnemo" : "CASRA",
+		"code" : "839",
+		"adabo" : "RPP10",
+		"metis" : "CA CR Sud Rhône Alpes",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRI6",
+		"ad" : "JP",
+		"nom" : "Champagne-Bourgogne",
+		"mnemo" : "CACB",
+		"code" : "810",
+		"adabo" : "JPP10",
+		"metis" : "CA CR Champagne-Bourgogne",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRI8",
+		"ad" : "KP",
+		"nom" : "Loire-Haute Loire",
+		"mnemo" : "CALHL",
+		"code" : "845",
+		"adabo" : "KPP10",
+		"metis" : "CA CR Loire Haute-Loire",
+		"crgrad" : false
+	},
+	{
+		"part" : "CRK6",
+		"ad" : "LP",
+		"nom" : "Centre-Est",
+		"mnemo" : "CACE",
+		"code" : "878",
+		"adabo" : "LPP10",
+		"metis" : "CA CR Centre-Est"
+	}
+]
